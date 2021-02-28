@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+    font-family: sans-serif;
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    border-style: ridge;
+    border-color: #50C878;
+    border-width: thick;
+}
+img{
+    border-radius: 50px;
+    height: 350px;
+    padding:
+}
